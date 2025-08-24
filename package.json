@@ -1,0 +1,28 @@
+{
+  "name": "school-portal",
+  "version": "1.0.0",
+  "description": "A backend system built with Node.js, Express, and PostgreSQL that allows multiple schools to register and manage their ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterJnr/school-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterJnr/school-portal/issues"
+  },
+  "homepage": "https://github.com/PeterJnr/school-portal#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
