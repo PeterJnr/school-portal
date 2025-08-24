@@ -1,7 +1,4 @@
-# Node modules (huge folder, don’t ever push)
 node_modules/
-
-# Environment variables (never push secrets)
 .env
 
 # OS specific files (trash)
